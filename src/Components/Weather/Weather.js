@@ -21,7 +21,7 @@ export default function Weather({ name }) {
   }
 
   return (
-    <div className="weather-container"  data-testid="weather-wrapper">
+    <div className="weather-container" data-testid="weather-wrapper">
       <ul className="weather-padding">
         <li className="weather-image">
           <img src={weatherInfo.weather.condition.icon} alt="weater condition" className="weather-condition-icon" />

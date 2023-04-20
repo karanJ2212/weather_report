@@ -6,7 +6,6 @@ import { Provider } from 'react-redux';
 import store from '../../Redux/Store';
 import Weather from '../Weather/Weather';
 
-
 describe('Testing Countries component', () => {
   test('Testing the dom for success rendering elements on Countries component', () => {
     const { getByTestId } = render(
