@@ -56,6 +56,15 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 🚀 Video Demo <a name="live-demo"></a>
+
+-[Video Demo Link-(https://www.loom.com/share/ae474dd27847481e8692fcba9b5ef6fa)]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -167,8 +176,8 @@ If you like this project please give star...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse Team
-Nelson Sakwa for the amazing on Behance
+I would like to thank Microverse Team and 
+Nelson Sakwa for the amazing design on Behance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
