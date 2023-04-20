@@ -8,16 +8,16 @@ import Weather from './Components/Weather/Weather';
 
 function App() {
   return (
-    <>
       <BrowserRouter>
+    <>
         <Navbar />
         <Routes>
           <Route path="/" element={<Countrylist />} />
           <Route path="Weather" element={<Weather />} />
           <Route path="Statelist" element={<Statelist />} />
         </Routes>
-      </BrowserRouter>
     </>
+      </BrowserRouter>
   );
 }
 
