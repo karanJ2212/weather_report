@@ -12,8 +12,7 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route exact path="/" element={<Countrylist />} />
-
+          <Route path="/" element={<Countrylist />} />
           <Route path="Weather" element={<Weather />} />
           <Route path="Statelist" element={<Statelist />} />
         </Routes>

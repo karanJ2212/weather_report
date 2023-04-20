@@ -1,0 +1,25 @@
+.statesPage {
+  background-color: #ff5294;
+  width: 100%;
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+
+.weather-padding {
+  padding: 1.5rem;
+}
+
+.weatherInfo {
+  color: white;
+}
+
+.chooseState {
+  color: #fff;
+}
+
+.states {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  color: #fff;
+  width: 100%;
+}
