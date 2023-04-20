@@ -168,6 +168,7 @@ If you like this project please give star...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Microverse Team
+Nelson Sakwa for the amazing on Behance
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
