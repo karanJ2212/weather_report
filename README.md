@@ -43,13 +43,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Render a list of all joined missions**
-- **Render a list of all reserved rocket**
-- **Has functionality to reserve a rocket**
-- **Has functionality to join a mission**
+- **Render a list of all countries**
+- **Render a details of states of any country**
+- **detailed weather report of the country or state**
+- **Has Redux store**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 -[Live Demo Link- https://weather-report22.netlify.app/]
@@ -62,8 +61,6 @@
 -[Video Demo Link-(https://www.loom.com/share/ae474dd27847481e8692fcba9b5ef6fa)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -83,8 +80,8 @@ Clone this repository to your desired folder:
 
 ```sh
   cd your-desired-folder
-  git clone git@github.com:karanJ2212/space_travelers_hub.git
-  open the repo folder `space_travelers_hub`
+  git clone git@github.com:karanJ2212/weather_report.git
+  open the repo folder `weather_report`
 ```
 
 ### Install
@@ -156,7 +153,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] Improve the application CSS styles
+- [ ] Improve the application CSS styles and bring search feature
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,10 +171,16 @@ If you like this project please give star...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse Team and 
-Nelson Sakwa for the amazing design on Behance
+
+ I would like to thank:
+- [Microverseinc](https://github.com/microverseinc) for [Readme-template](https://github.com/microverseinc/readme-template).
+- [Nelson Sakwa at Behance](https://www.behance.net/sakwadesignstudio) for creating this beautiful [App design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+- [Alejandro Matos](https://gitlab.com/amatos) for [ Countriesnow API](https://countriesnow.space/api).
+- [WeatherAPI](https://api.weatherapi.com) for [Weather API](https://api.weatherapi.com)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
