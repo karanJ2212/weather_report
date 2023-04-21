@@ -164,9 +164,15 @@ If you like this project please give star...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse Team
+ I would like to thank:
+- [Microverseinc](https://github.com/microverseinc) for [Readme-template](https://github.com/microverseinc/readme-template).
+- [Nelson Sakwa at Behance](https://www.behance.net/sakwadesignstudio) for creating this beautiful [App design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)).
+- [Alejandro Matos](https://gitlab.com/amatos) for [ Countriesnow API](https://countriesnow.space/api).
+- [WeatherAPI](https://api.weatherapi.com) for [Weather API](https://api.weatherapi.com)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
