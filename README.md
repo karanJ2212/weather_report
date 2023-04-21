@@ -1,9 +1,10 @@
 <div align="center">
   <h3><b>Weather Report</b></h3>
+
 </div>
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Spacetravelers](#-to-do-list-)
+- [📖 WeatherReport](#-to-do-list-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -60,7 +61,6 @@
 -[Video Demo Link-(https://www.loom.com/share/ae474dd27847481e8692fcba9b5ef6fa)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -173,6 +173,7 @@ If you like this project please give star...
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 
  I would like to thank:
 - [Microverseinc](https://github.com/microverseinc) for [Readme-template](https://github.com/microverseinc/readme-template).
