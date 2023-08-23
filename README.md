@@ -22,9 +22,9 @@
   - [🙏 Acknowledgements](#acknowledgements)
   - [📝 License ](#-license-)
 
-# 📖 Weatherr Report<a name="about-project"></a>
+# 📖 Weather Report<a name="about-project"></a>
 
-**Weather Report** Weather Report is a SPA built using react and redux toolkit. It gives you details of all the weather sondition in the specific country and its state territory.
+**Weather Report** Weather Report is a SPA built using react and redux toolkit. It contains list of all the countries and their states . You can select any country and get the detailed weather condition in the specific country and its state territory.
 
 ## 🛠 Built With <a name="built-with"></a>
 
