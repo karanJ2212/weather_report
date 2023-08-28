@@ -1,7 +1,5 @@
-
 .card {
   position: relative;
-  background: linear-gradient(rgba(209, 66, 121, 0.9), rgba(209, 66, 121, 0.9)), url('../../Images/cover.png') center/cover;
   box-sizing: border-box;
   padding: 17px 12px;
   cursor: pointer;
@@ -13,6 +11,22 @@
   row-gap: 3px;
   z-index: 1;
   overflow: hidden;
+}
+
+.card:nth-child(4n+1) {
+  background: linear-gradient(rgba(209, 66, 121, 0.9), rgba(209, 66, 121, 0.9)), url('../../Images/image1.png') center/cover;
+}
+
+.card:nth-child(4n+2) {
+  background: linear-gradient(rgba(209, 66, 121, 0.9), rgba(209, 66, 121, 0.9)), url('../../Images/image2.png') center/cover;
+}
+
+.card:nth-child(4n+3) {
+  background: linear-gradient(rgba(209, 66, 121, 0.9), rgba(209, 66, 121, 0.9)), url('../../Images/image3.png') center/cover;
+}
+
+.card:nth-child(4n+4) {
+  background: linear-gradient(rgba(209, 66, 121, 0.9), rgba(209, 66, 121, 0.9)), url('../../Images/image4.png') center/cover;
 }
 
 .card-title {

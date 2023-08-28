@@ -1,5 +1,5 @@
 import { createSlice } from '@reduxjs/toolkit';
-import fetchCountry from './CountryAction';
+import { fetchCountry, fetchSingleCountry } from './CountryAction';
 
 const initialState = {
   countries: {},
@@ -13,9 +13,34 @@ const countriesSlice = createSlice({
   reducers: {},
   extraReducers: (builder) => {
     builder
-      .addCase(fetchCountry.pending, (state) => ({ ...state, countriesStatus: 'loading' }))
-      .addCase(fetchCountry.fulfilled, (state, action) => ({ ...state, countriesStatus: 'succeeded', countries: action.payload }))
-      .addCase(fetchCountry.rejected, (state, action) => ({ ...state, countriesStatus: 'failed', countriesError: action.error.message }));
+      .addCase(fetchCountry.pending, (state) => ({
+        ...state,
+        countriesStatus: 'loading',
+      }))
+      .addCase(fetchCountry.fulfilled, (state, action) => ({
+        ...state,
+        countriesStatus: 'succeeded',
+        countries: action.payload,
+      }))
+      .addCase(fetchCountry.rejected, (state, action) => ({
+        ...state,
+        countriesStatus: 'failed',
+        countriesError: action.error.message,
+      }))
+      .addCase(fetchSingleCountry.pending, (state) => ({
+        ...state,
+        countriesStatus: 'loading',
+      }))
+      .addCase(fetchSingleCountry.fulfilled, (state, action) => ({
+        ...state,
+        countriesStatus: 'succeeded',
+        countries: { [action.payload.name]: action.payload },
+      }))
+      .addCase(fetchSingleCountry.rejected, (state, action) => ({
+        ...state,
+        countriesStatus: 'failed',
+        countriesError: action.error.message,
+      }));
   },
 });
 
