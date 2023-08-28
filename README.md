@@ -23,9 +23,9 @@
   - [🙏 Acknowledgements](#acknowledgements)
   - [📝 License ](#-license-)
 
-# 📖 Weatherr Report<a name="about-project"></a>
+# 📖 Weather Report<a name="about-project"></a>
 
-**Weather Report** Weather Report is a SPA built using react and redux toolkit. It gives you details of all the weather sondition in the specific country and its state territory.
+**Weather Report** Weather Report is a SPA built using react and redux toolkit. It contains list of all the countries and their states . You can select any country and get the detailed weather condition in the specific country and its state territory.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,14 +51,13 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--[Live Demo Link- https://weather-report22.netlify.app/]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🚀 Video Demo <a name="live-demo"></a>
 
 -[Video Demo Link-(https://www.loom.com/share/ae474dd27847481e8692fcba9b5ef6fa)]
+=======
+-[Live Demo Link](https://weather-report22.netlify.app)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
